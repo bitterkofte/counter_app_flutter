@@ -1,6 +1,10 @@
 # counter_app
 
-A new Flutter project.
+A counter app where users can increment and decrement the counter and it's saved with the help of "shared preferences"!
+
+## How It Looks
+
+<img src="./public/screenshot.png" alt="screenshot" width="300"/>
 
 ## Getting Started
 
